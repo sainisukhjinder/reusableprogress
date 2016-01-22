@@ -17,5 +17,14 @@
 * It will build, run the web server and launch the browser.
 * If you make any change in the code, it will rebuild it, and also, Refresh the browser to reflect the changes.
 
+## Usage:
+* Call the following function to add another progressbar
+```html
+<script type="text/javascript">
+        window.onload = function () {
+            createProgressBar(NAME, VALUE, CONTAINER);
+         };
+</script>
+```
 ## Demo
 See [Here](http://sainisukhjinder.github.io/reusableprogress)
