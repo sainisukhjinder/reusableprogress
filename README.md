@@ -22,4 +22,4 @@
 
 ## Demo
 
-* You can see the working [DEMO](http://sainisukhjinder.github.io/reusableprogress/) here.
+See [DEMO](http://sainisukhjinder.github.io/reusableprogress)
