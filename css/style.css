@@ -4,7 +4,7 @@
 }
 
 .btn {
-    margin: 0 5px 0 auto;
+    margin: 5px 5px 0 auto;
 }
 
 h1 {
@@ -20,6 +20,7 @@ h1 {
 #controls,
 #controlselect {
     float: left;
+    margin:2px 5px 0 auto;
 }
 
 .staticInfo {
@@ -37,5 +38,4 @@ h1 {
 
 #buttonControl {
     float: left;
-    margin: 0 auto 0 10px;
 }
