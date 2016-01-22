@@ -6,8 +6,8 @@
 3. Run the following command , to install the global gulp:
 ```npm install -g gulp```
 4. Clone the repository
-```git clone path-to-the-repo```
-```cd repo```
+```git clone https://github.com/sainisukhjinder/reusableprogress.git```
+```cd reusableprogress```
 5. Install the required development dependencies using following command:
 ```npm install```
 6. Run the following file to build project for production:
@@ -19,3 +19,7 @@
 * Open shell in root directory and run ``gulp develop`` command.
 * It will build, run the web server and launch the browser.
 * If you make any change in the code, it will rebuild it, and also, Refresh the browser to reflect the changes.
+
+## Demo
+
+* You can see the working [DEMO](http://http://sainisukhjinder.github.io/reusableprogress/) here.
