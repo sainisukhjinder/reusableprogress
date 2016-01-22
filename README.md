@@ -12,7 +12,7 @@
 ```npm install```
 6. Run the following file to build project for production:
 ```built.bat```
-6. Run the following file to build project for development:
+7. Run the following file to build project for development:
 ```built-develop.bat```
 ## Develop and Build (Unix):
 * Open shell in root directory and run ```gulp develop``` command.
