@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang='en-GB'>
+
+<head>
+    <title>Reusable Progress Bar Components with Ractive JS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset='utf-8'>
+
+    <!-- Ractive and its plugins -->
+    <!-- build:js js/lib.min.js -->
+    <script src='js/ractive.js'></script>
+    <script src='js/ractive-load.js'></script>
+    <script src='js/ractive-tap.js'></script>
+    <!-- endbuild -->
+
+    <!-- custom functions -->
+    <!-- build:js js/scripts.min.js -->
+    <script type="text/javascript" src='js/components.js'></script>
+    <!-- endbuild -->
+
+    <!-- Supporting CSS -->
+    <!-- build:css css/style.min.css -->
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css"></link>
+    <link rel="stylesheet" href="css/style.css" type="text/css"></link>
+    <!-- endbuild -->
+
+
+    <script type="text/javascript">
+        // Create any number of bars using createProgressBar function(name, value, container-id)
+        window.onload = function () {
+            createProgressBar('progressBar1', 30, 'container');
+            createProgressBar('progressBar2', 100, 'custom');
+            createProgressBar('progressBar3', 76, 'custom');
+
+        };
+    </script>
+
+</head>
+
+<body>
+    <h1>Reusable Progress Bar Components with Ractive JS</h1>
+    <div id='container'></div>
+    <div id='custom'></div>
+    <!-- Controls for progress bars will render here -->
+    <div id="controlsContainer">
+        <div id="controls"></div>
+        <div id="buttonControl"></div>
+    </div>
+</body>
+
+</html>
