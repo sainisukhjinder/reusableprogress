@@ -16,10 +16,10 @@
 ```built-develop.bat```
 
 ## Develop and Build (Unix):
-* Open shell in root directory and run ``gulp develop`` command.
+* Open shell in root directory and run ```gulp develop``` command.
 * It will build, run the web server and launch the browser.
 * If you make any change in the code, it will rebuild it, and also, Refresh the browser to reflect the changes.
 
 ## Demo
 
-See [HERE](http://sainisukhjinder.github.io/reusableprogress)
+* See [Here](http://sainisukhjinder.github.io/reusableprogress)
