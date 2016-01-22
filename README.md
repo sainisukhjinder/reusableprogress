@@ -14,7 +14,6 @@
 ```built.bat```
 7. Run the following file to build project for developement:
 ```built-develop.bat```
-
 ## Develop and Build (Unix):
 * Open shell in root directory and run ```gulp develop``` command.
 * It will build, run the web server and launch the browser.
