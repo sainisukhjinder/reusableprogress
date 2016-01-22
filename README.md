@@ -22,4 +22,4 @@
 
 ## Demo
 
-See [DEMO](http://sainisukhjinder.github.io/reusableprogress)
+See [HERE](http://sainisukhjinder.github.io/reusableprogress)
