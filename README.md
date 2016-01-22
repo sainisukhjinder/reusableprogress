@@ -20,5 +20,4 @@
 * If you make any change in the code, it will rebuild it, and also, Refresh the browser to reflect the changes.
 
 ## Demo
-
-* See [Here](http://sainisukhjinder.github.io/reusableprogress)
+See [Here](http://sainisukhjinder.github.io/reusableprogress)
